@@ -11,4 +11,4 @@ Controles:
 - Arriba: recorrer opciones.
 - Central: aceptar o confirmar.
 - Abajo: cancelar o volver.
-- Menú de opciones del M5: mantén Arriba y pulsa Central a la vez. Allí puedes cambiar ajustes como brillo, volumen, color, filtro de pantalla y sensibilidad del movimiento.
+- Menú de opciones del M5: mantén Arriba y pulsa Central a la vez. Allí puedes cambiar ajustes como brillo, volumen, color, filtro de pantalla, sensibilidad del movimiento, etc.
